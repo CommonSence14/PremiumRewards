@@ -1,0 +1,37 @@
+
+body, html {
+  height: 100%;
+}
+
+
+body{
+    
+	background-image: url(mineground.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	display: grid;
+	height: 100%;
+	margin: 0;
+	overflow: auto;
+}	
+
+body img{
+	margin: 0;
+	style=float:left;
+
+}
+
+#text {
+	font-family: 'Oswald', sans-serif;
+	color: blue;
+}
+
+div ul li{
+	margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+

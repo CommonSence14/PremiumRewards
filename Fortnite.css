@@ -1,0 +1,32 @@
+body, html {
+  height: 100%;
+}
+
+body{
+
+	/*background:rgb(204,255,204);*/
+	background-image: url(Fortground.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+	margin: 0;
+	overflow: auto;
+}	
+
+body img{
+	margin: 0;
+	float:left;
+
+}
+
+#text {
+	font-family: 'Oswald', sans-serif;
+	color: blue;
+}
+
+div ul li{
+	margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}

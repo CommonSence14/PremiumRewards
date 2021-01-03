@@ -1,0 +1,76 @@
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body{
+
+	background:rgb(200,254,254);
+	margin: 0;
+}
+
+
+body h1{
+	margin: 0;
+}
+
+header{
+	background:rgb(235, 254, 254);
+	margin: 0;
+	overflow: auto;
+
+}
+
+
+.btn {
+	border-radius: 300px
+	
+}
+
+
+h2{
+ 	margin: 0;
+ 	font-size: 3em;
+ 	border-bottom: 2px (103, 238, 238);
+ 	border-right:2px  (103, 238, 238);
+ 	box-shadow: 4px 4px 5px #888888; 
+}
+
+header nav{
+	margin: 0;
+}
+
+nav ul h3 li{
+	margin: 0;
+  	display: inline-block;
+ 	list-style-type: none;
+}
+#text {
+	font-family: 'Oswald', sans-serif;
+}
+
+.column {
+  float: right;
+  padding: 5px;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+img{
+	height: 400px;
+	width: 400px;
+	max-width: 100%;
+	margin: 10px;
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
