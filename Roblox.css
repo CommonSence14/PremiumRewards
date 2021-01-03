@@ -1,0 +1,39 @@
+body, html {
+  height: 100%;
+}
+
+body{
+
+	/*background:rgb(204,255,204);*/
+	background-image: url(robground.jpg);
+	background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	display: grid;
+	height: 100%;
+	margin: 0;
+	overflow: auto;
+	margin: 0;
+}	
+
+body img{
+	margin: 0;
+	float:left;
+
+}
+
+#text {
+	font-family: 'Oswald', sans-serif;
+	color: blue;
+	position: relative;
+  	top:-250px;
+}
+
+div ul li{
+	margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
