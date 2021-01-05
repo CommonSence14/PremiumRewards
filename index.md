@@ -18,15 +18,19 @@
 	</div>
 	<div class="row">
   <div class="column">
-  	<a href=Fortnite.html><img src="Fortnite logo.png" alt="Fortnite logo"></a>
+  	<a href="Fortnite.html"><img src="Fortnite logo.png" alt="Fortnite logo">
+    </a>
   </div>
   <div class="column">
-    <a href=minecraft.html><img src="Minecraft logo.jpg" alt="Minecraft" ></a>
+    <a href="minecraft.html"><img src="Minecraft logo.jpg" alt="Minecraft" >
+    </a>
   </div>
   <div class="column">
-  	<a href=Roblox.html> <img src="Roblox logo.jpg" alt="Roblox"></a>
+  	<a href="Roblox.html"> <img src="Roblox logo.jpg" alt="Roblox">
+    </a>
   <div class="column">
-  	<a href=AmongUs.html> <img src="AU.jpg" alt="Roblox"></a>
+  	<a href="AmongUs.html"> <img src="AU.jpg" alt="Roblox">
+    </a>
 
   </div>
 </body>
